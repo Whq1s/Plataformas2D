@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: b7033eb9b097250479d941a01e972020
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 607317392392680554
+    second: Crow (1)_0
+  - first:
+      213: 6952522798356308662
+    second: Crow (1)_1
+  - first:
+      213: -570227329813807830
+    second: Crow (1)_2
+  - first:
+      213: 5811558203095894486
+    second: Crow (1)_3
+  - first:
+      213: 1237124446554110303
+    second: Crow (1)_4
+  - first:
+      213: -5993233111838699901
+    second: Crow (1)_5
+  - first:
+      213: 2376518096012762967
+    second: Crow (1)_6
+  - first:
+      213: 3691181462182452248
+    second: Crow (1)_7
+  - first:
+      213: -3017748264582045455
+    second: Crow (1)_8
+  - first:
+      213: 2888373182968352214
+    second: Crow (1)_9
+  - first:
+      213: 7308936765293257381
+    second: Crow (1)_10
+  - first:
+      213: -2787119584781606525
+    second: Crow (1)_11
+  - first:
+      213: 2667123715205228659
+    second: Crow (1)_12
+  - first:
+      213: -4013868018622364126
+    second: Crow (1)_13
+  - first:
+      213: -6227767932542019452
+    second: Crow (1)_14
+  - first:
+      213: -1569514265534101741
+    second: Crow (1)_15
+  - first:
+      213: 2327711918886571236
+    second: Crow (1)_16
+  - first:
+      213: -241646592042512837
+    second: Crow (1)_17
+  - first:
+      213: 6468576576969205324
+    second: Crow (1)_18
+  - first:
+      213: -5633867776054631868
+    second: Crow (1)_19
+  - first:
+      213: 3257386931584980952
+    second: Crow (1)_20
+  - first:
+      213: -6947888745947716210
+    second: Crow (1)_21
+  - first:
+      213: 4598087251584312460
+    second: Crow (1)_22
+  - first:
+      213: -4192613318732178917
+    second: Crow (1)_23
+  - first:
+      213: -4224285922063868634
+    second: Crow (1)_24
+  - first:
+      213: -466992947379709657
+    second: Crow (1)_25
+  - first:
+      213: -326588852654942596
+    second: Crow (1)_26
+  - first:
+      213: -324741553411662533
+    second: Crow (1)_27
+  - first:
+      213: 8305184885527907722
+    second: Crow (1)_28
+  - first:
+      213: -2399980986015551429
+    second: Crow (1)_29
+  - first:
+      213: -7449710617873205348
+    second: Crow (1)_30
+  - first:
+      213: -1320904908156340451
+    second: Crow (1)_31
+  - first:
+      213: 1499750878093197654
+    second: Crow (1)_32
+  - first:
+      213: -7081874613910250033
+    second: Crow (1)_33
+  - first:
+      213: 5186916224454489668
+    second: Crow (1)_34
+  - first:
+      213: 5078880993279634374
+    second: Crow (1)_35
+  - first:
+      213: 4681544570511807673
+    second: Crow (1)_36
+  - first:
+      213: -8108365199427038626
+    second: Crow (1)_37
+  - first:
+      213: 4441408923772760553
+    second: Crow (1)_38
+  - first:
+      213: -1800335915253747264
+    second: Crow (1)_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647b7f53ff9d6800800000000000000
+      internalID: 607317392392680554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 254
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b225d826a25c7060800000000000000
+      internalID: 6952522798356308662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 254
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7a35c3452618f0800000000000000
+      internalID: -570227329813807830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 254
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c90f056dc6a050800000000000000
+      internalID: 5811558203095894486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 254
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f593fcb21262b2110800000000000000
+      internalID: 1237124446554110303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 254
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eceb00d32c3dca0800000000000000
+      internalID: -5993233111838699901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 254
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd023fd961bf020800000000000000
+      internalID: 2376518096012762967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c54eeabf5b93330800000000000000
+      internalID: 3691181462182452248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0290c21fdce16d0800000000000000
+      internalID: -3017748264582045455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 205
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc79d4b10951820800000000000000
+      internalID: 2888373182968352214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 205
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e81d734f8e6560800000000000000
+      internalID: 7308936765293257381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 205
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ee8221892259d0800000000000000
+      internalID: -2787119584781606525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 206
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e3d053e6830520800000000000000
+      internalID: 2667123715205228659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 205
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22686bead40eb48c0800000000000000
+      internalID: -4013868018622364126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488934dbf068299a0800000000000000
+      internalID: -6227767932542019452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178ee45717f73ae0800000000000000
+      internalID: -1569514265534101741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 152
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4da058a1bd4020800000000000000
+      internalID: 2327711918886571236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 152
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4f1074bf75acf0800000000000000
+      internalID: -241646592042512837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4669a0ff1005c950800000000000000
+      internalID: 6468576576969205324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 157
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426eb07b1b70d1b0800000000000000
+      internalID: -5633867776054631868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 157
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75f19e720943d20800000000000000
+      internalID: 3257386931584980952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 109
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852ade3ff3249f90800000000000000
+      internalID: -6947888745947716210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 109
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846fec5effafcf30800000000000000
+      internalID: 4598087251584312460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 109
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a95686668d0d5c0800000000000000
+      internalID: -4192613318732178917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 109
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d13b9c5525065c0800000000000000
+      internalID: -4224285922063868634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 109
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729d1da7368e489f0800000000000000
+      internalID: -466992947379709657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 109
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7656e93b29b77bf0800000000000000
+      internalID: -326588852654942596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 109
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd61917494e7bf0800000000000000
+      internalID: -324741553411662533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d85df86a1f14370800000000000000
+      internalID: 8305184885527907722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 12
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f9d4420e81bed0800000000000000
+      internalID: -2399980986015551429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97363ec9af4d9890800000000000000
+      internalID: -7449710617873205348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 61
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1775470cf33bade0800000000000000
+      internalID: -1320904908156340451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65143544a7f20d410800000000000000
+      internalID: 1499750878093197654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd50e5f8028bd90800000000000000
+      internalID: -7081874613910250033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 61
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f15e13d0abf740800000000000000
+      internalID: 5186916224454489668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb6ae4ba5fcb7640800000000000000
+      internalID: 5078880993279634374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4d385abff28f040800000000000000
+      internalID: 4681544570511807673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521303afcc497f80800000000000000
+      internalID: -8108365199427038626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1b9b372ed03ad30800000000000000
+      internalID: 4441408923772760553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow (1)_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 19
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13cee060ce307e0800000000000000
+      internalID: -1800335915253747264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crow (1)_0: 607317392392680554
+      Crow (1)_1: 6952522798356308662
+      Crow (1)_10: 7308936765293257381
+      Crow (1)_11: -2787119584781606525
+      Crow (1)_12: 2667123715205228659
+      Crow (1)_13: -4013868018622364126
+      Crow (1)_14: -6227767932542019452
+      Crow (1)_15: -1569514265534101741
+      Crow (1)_16: 2327711918886571236
+      Crow (1)_17: -241646592042512837
+      Crow (1)_18: 6468576576969205324
+      Crow (1)_19: -5633867776054631868
+      Crow (1)_2: -570227329813807830
+      Crow (1)_20: 3257386931584980952
+      Crow (1)_21: -6947888745947716210
+      Crow (1)_22: 4598087251584312460
+      Crow (1)_23: -4192613318732178917
+      Crow (1)_24: -4224285922063868634
+      Crow (1)_25: -466992947379709657
+      Crow (1)_26: -326588852654942596
+      Crow (1)_27: -324741553411662533
+      Crow (1)_28: 8305184885527907722
+      Crow (1)_29: -2399980986015551429
+      Crow (1)_3: 5811558203095894486
+      Crow (1)_30: -7449710617873205348
+      Crow (1)_31: -1320904908156340451
+      Crow (1)_32: 1499750878093197654
+      Crow (1)_33: -7081874613910250033
+      Crow (1)_34: 5186916224454489668
+      Crow (1)_35: 5078880993279634374
+      Crow (1)_36: 4681544570511807673
+      Crow (1)_37: -8108365199427038626
+      Crow (1)_38: 4441408923772760553
+      Crow (1)_39: -1800335915253747264
+      Crow (1)_4: 1237124446554110303
+      Crow (1)_5: -5993233111838699901
+      Crow (1)_6: 2376518096012762967
+      Crow (1)_7: 3691181462182452248
+      Crow (1)_8: -3017748264582045455
+      Crow (1)_9: 2888373182968352214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
