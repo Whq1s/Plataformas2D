@@ -22,15 +22,23 @@ Items and moving platforms shall not be in the tilemap because u can't manage th
 Who manages player collisions player itself or object collided with? Well It could depend.
 Res: Doesn't really matter, can be the door with no problem.
 
-Do I need a gamemanager to manage player death?
 
 Empty GO_ collision, tag: pitofdeath (orsmth) on collisionenter -> player dies, wait for seconds before respawn.
 
 
-Gamemanager manages player death.
+Gamemanager manages player death. -> player script: obn coliision tag == death -> gamemanager.instance.death_respawn. Inside death_respawn transform.position = initialPosition;
 
 Character position inicial guardar en start 
 on start: posicion inicial = vector2.zero;
 positionInicial = transform.position
 to get initial position from when charcter touches ground : on collisionenter if tag = ground && position inicial == vector2.zero
 transofr rotation quartenion identity
+
+//
+
+invincibitlity is done with a bool. Then you make a coroutine to make it false. animation comes from anystate.
+
+// Carrot score. 
+If you have different number of carrots per level you can count them in the Start method. -> gameObjectWithTag: carrot (you'll get an array)
+so if you have a carrotCounter in the collision with carrtos i can check for currentCarrotNumber == carrots.Length.
+if ==; then i can set the boxColliderComponent to true. (.enabled = true)
