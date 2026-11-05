@@ -42,3 +42,8 @@ invincibitlity is done with a bool. Then you make a coroutine to make it false. 
 If you have different number of carrots per level you can count them in the Start method. -> gameObjectWithTag: carrot (you'll get an array)
 so if you have a carrotCounter in the collision with carrtos i can check for currentCarrotNumber == carrots.Length.
 if ==; then i can set the boxColliderComponent to true. (.enabled = true)
+
+
+//
+
+On trigger enter2D for triggers instead of CollisionEnter2D
