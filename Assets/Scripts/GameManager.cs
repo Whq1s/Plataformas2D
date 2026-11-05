@@ -17,4 +17,8 @@ public class GameManager : MonoBehaviour{
         Scene currentScene = SceneManager.GetActiveScene();
         SceneManager.LoadScene((currentScene.buildIndex -1) + 1);
     }
+
+    public void CharacterDeath(){
+        
+    }
 }

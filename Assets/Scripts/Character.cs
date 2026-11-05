@@ -4,19 +4,25 @@ using UnityEngine.InputSystem;
 public class Character : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public float vel;
-    public Vector2 direction;
-    public float impulse;
-    public Rigidbody2D rb;
-    public Animator animator;
-    public float circleRadius = 0.01f;
-    public Vector2 low;
-    public bool isOnFloor;
-    public LayerMask floorLayer;
+    private float vel;
+    private Vector2 direction;
+    private float impulse;
+    private Rigidbody2D rb;
+    private Animator animator;
+    private float circleRadius = 0.01f;
+    private Vector2 low;
+    private bool isOnFloor;
+    private LayerMask floorLayer;
+
+    //getInitialPosition
+    private Vector2 initialPosition;
+    private bool isTouchingFloor;
 
     void Start(){
+        isTouchingFloor = false;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        initialPosition = Vector2.zero;
     }
 
     // Update is called once per frame
@@ -51,6 +57,14 @@ public class Character : MonoBehaviour
         if (val.started && isOnFloor){
             rb.linearVelocity = Vector2.zero;
             rb.AddForce(Vector2.up * impulse);
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)  {
+        if(collision.transform.tag == "MainFloor" && initialPosition == Vector2.zero){
+            isTouchingFloor = true;
+            initialPosition = transform.position;
+            Debug.Log(initialPosition);
         }
     }
 }
