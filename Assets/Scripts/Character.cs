@@ -4,15 +4,15 @@ using UnityEngine.InputSystem;
 public class Character : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    private float vel;
+    [SerializeField]private float vel;
     private Vector2 direction;
-    private float impulse;
+    [SerializeField]private float impulse;
     private Rigidbody2D rb;
     private Animator animator;
-    private float circleRadius = 0.01f;
-    private Vector2 low;
-    private bool isOnFloor;
-    private LayerMask floorLayer;
+    public float circleRadius = 0.01f;
+    public Vector2 low;
+    public bool isOnFloor;
+    public LayerMask floorLayer;
 
     //getInitialPosition
     private Vector2 initialPosition;
